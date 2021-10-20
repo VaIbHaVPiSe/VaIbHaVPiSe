@@ -28,7 +28,7 @@
 
 
 [instagram]: https://instagram.com/vaibhav_pise_25
-[linkedin]: https://linkedin.com/in/vaibhav-pise-b76762204
+[linkedin]:  https://www.linkedin.com/in/vaibhav-pise-131a4b223
 
 
 <!---
