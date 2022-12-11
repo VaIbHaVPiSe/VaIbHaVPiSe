@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with other people with their projects.
 - ⚡ Fun fact: I love to sketch and swim.
 
-### Connect with me:
+
 
 [<img align="left" alt="VaibhavPise | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VaibhavPise  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
